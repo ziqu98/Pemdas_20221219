@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pemdas_20221219", "Pemdas_20221219.vcxproj", "{4C6AEFB9-9554-4E4E-91A0-0137C68B4319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6AEFB9-9554-4E4E-91A0-0137C68B4319}.Debug|x64.ActiveCfg = Debug|x64
+		{4C6AEFB9-9554-4E4E-91A0-0137C68B4319}.Debug|x64.Build.0 = Debug|x64
+		{4C6AEFB9-9554-4E4E-91A0-0137C68B4319}.Debug|x86.ActiveCfg = Debug|Win32
+		{4C6AEFB9-9554-4E4E-91A0-0137C68B4319}.Debug|x86.Build.0 = Debug|Win32
+		{4C6AEFB9-9554-4E4E-91A0-0137C68B4319}.Release|x64.ActiveCfg = Release|x64
+		{4C6AEFB9-9554-4E4E-91A0-0137C68B4319}.Release|x64.Build.0 = Release|x64
+		{4C6AEFB9-9554-4E4E-91A0-0137C68B4319}.Release|x86.ActiveCfg = Release|Win32
+		{4C6AEFB9-9554-4E4E-91A0-0137C68B4319}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8070FD84-541C-433B-A584-112D830F428A}
+	EndGlobalSection
+EndGlobal
